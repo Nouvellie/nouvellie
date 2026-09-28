@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-robertorocuant.dev-0a0a0a?style=for-the-badge&logo=About.me&logoColor=white)](https://robertorocuant.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_Rocuant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-rocuant)
-[![Email](https://img.shields.io/badge/Email-contacto%40robertorocuant.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@robertorocuant.dev)
+[![Email](https://img.shields.io/badge/Email-contact%40robertorocuant.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@robertorocuant.dev)
 
 📍 **Santiago, Chile** • 🗣️ **Spanish (Native)** | **English (B2 - Technical Proficiency)**
 
