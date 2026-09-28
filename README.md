@@ -72,17 +72,6 @@ Senior Software Engineer specialized in **distributed backend systems**, **cloud
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nouvellie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Roberto en GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouvellie&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" height="165" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 Open to Senior Backend, Cloud Architecture, and MLOps engineering roles.
