@@ -89,4 +89,4 @@ Open to Senior Backend, Cloud Architecture, and MLOps engineering roles.
 
 - 🌐 **Portfolio & Blog:** [robertorocuant.dev](https://robertorocuant.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/roberto-rocuant](https://linkedin.com/in/roberto-rocuant)
-- ✉️ **Direct Email:** [contacto@robertorocuant.dev](mailto:contacto@robertorocuant.dev)
+- ✉️ **Direct Email:** [contact@robertorocuant.dev](mailto:contact@robertorocuant.dev)
