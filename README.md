@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Executive Summary
 
-Senior Software Engineer specialized in **distributed backend systems**, **cloud-native architectures on AWS**, and **deep learning integration**. Over 7 years of hands-on experience designing and operating mission-critical medical platforms (HealthTech) with high availability and fault tolerance.
+Software Engineer specialized in **distributed backend systems**, **cloud-native architectures on AWS**, and **deep learning integration**. Over 7 years of hands-on experience designing and operating mission-critical medical platforms (HealthTech) with high availability and fault tolerance.
 
 - ☁️ **Cloud Architecture:** Advanced distributed services using AWS (EC2, ALB, S3, SQS, Lambda, API Gateway, Aurora RDS).
 - ⚡ **High Concurrency Backend:** Resilient APIs and microservices using Python (Django, FastAPI), Node.js, Docker, and Nginx.
