@@ -1,7 +1,7 @@
 <div align="center">
 
 # Roberto Rocuant Venegas
-### Senior Backend Engineer & Cloud Architect | AI / MLOps
+### Backend Engineer & Cloud Architect | AI / MLOps
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-robertorocuant.dev-0a0a0a?style=for-the-badge&logo=About.me&logoColor=white)](https://robertorocuant.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_Rocuant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-rocuant)
